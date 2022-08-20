@@ -1,7 +1,8 @@
 from functools import total_ordering
 
 
-amount = 200
+amount = 100
 tax = .07
 total = amount + amount*tax
 print(total)
+
